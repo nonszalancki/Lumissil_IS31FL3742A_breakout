@@ -11,4 +11,5 @@ I designed these breakout boards with building rgb keyborad in mind. However you
 4. Solder everything and connect to your microcontroller of choice
 5. Enjoy! 
 
-# Typical connection scheme
+# Building
+You can use <a href="https://www.w3schools.com/](https://github.com/nonszalancki/Lumissil_IS31FL3742A_breakout">IBOM</a>interactive bom here to help you with component placement.
