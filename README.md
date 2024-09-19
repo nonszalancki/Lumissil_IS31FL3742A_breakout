@@ -10,3 +10,5 @@ I designed these breakout boards with building rgb keyborad in mind. However you
 3. Take a look at BOM and figure what parts you need
 4. Solder everything and connect to your microcontroller of choice
 5. Enjoy! 
+
+# Typical connection scheme
