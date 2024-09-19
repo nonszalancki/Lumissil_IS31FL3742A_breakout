@@ -12,4 +12,4 @@ I designed these breakout boards with building rgb keyborad in mind. However you
 5. Enjoy! 
 
 # Building
-You can use <a href="https://www.w3schools.com/](https://github.com/nonszalancki/Lumissil_IS31FL3742A_breakout">IBOM</a> here to help you with component placement.
+You can use <a href="https://github.com/nonszalancki/Lumissil_IS31FL3742A_breakout">IBOM</a> here to help you with component placement.
